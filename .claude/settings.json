@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /Users/shaan/Developer/llm/ollama/resume-based-jobs/backend /Users/shaan/Developer/llm/ollama/resume-based-jobs/frontend/src)",
+      "Bash(npx vite *)"
+    ],
+    "additionalDirectories": [
+      "/Users/shaan/Developer/llm/ollama/resume-based-jobs"
+    ]
+  }
+}
